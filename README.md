@@ -12,7 +12,7 @@ Please include a link to this repository, as shown below, so that others can eas
 
 ## Badges
 
-### In the case where everything is created using AI
+### When everything is created using AI (100%)
 
 [![100% AI Slop](https://img.shields.io/badge/100%25-AI%20Slop-red)](https://github.com/sinokadev/aislop-badge)
 
@@ -20,7 +20,7 @@ Please include a link to this repository, as shown below, so that others can eas
 [![100% AI Slop](https://img.shields.io/badge/100%25-AI%20Slop-red)](https://github.com/sinokadev/aislop-badge)
 ```
 
-### When only the code is written by AI
+### When only the code is written by AI (75%)
 
 [![75% AI Slop](https://img.shields.io/badge/75%25-AI%20Slop-orange)](https://github.com/sinokadev/aislop-badge)
 
@@ -28,7 +28,7 @@ Please include a link to this repository, as shown below, so that others can eas
 [![75% AI Slop](https://img.shields.io/badge/75%25-AI%20Slop-orange)](https://github.com/sinokadev/aislop-badge)
 ```
 
-### In cases where AI was used for some of the code or implementation
+### When AI is used for some of the code or implementation (50%)
 
 [![50% AI Slop](https://img.shields.io/badge/50%25-AI%20Slop-yellow)](https://github.com/sinokadev/aislop-badge)
 
@@ -36,7 +36,7 @@ Please include a link to this repository, as shown below, so that others can eas
 [![50% AI Slop](https://img.shields.io/badge/50%25-AI%20Slop-yellow)](https://github.com/sinokadev/aislop-badge)
 ```
 
-### When AI has been used solely for debugging or tedious tasks
+### When AI is used solely for debugging or tedious tasks (25%)
 
 [![25% AI Used](https://img.shields.io/badge/25%25-AI%20Used-yellowgreen)](https://github.com/sinokadev/aislop-badge)
 
@@ -44,7 +44,7 @@ Please include a link to this repository, as shown below, so that others can eas
 [![25% AI Used](https://img.shields.io/badge/25%25-AI%20Used-yellowgreen)](https://github.com/sinokadev/aislop-badge)
 ```
 
-### In cases where AI was used solely for translation
+### When AI is used solely for translation (10%)
 
 [![10% AI Used](https://img.shields.io/badge/10%25-AI%20Used-brightgreen)](https://github.com/sinokadev/aislop-badge)
 
@@ -52,7 +52,7 @@ Please include a link to this repository, as shown below, so that others can eas
 [![10% AI Used](https://img.shields.io/badge/10%25-AI%20Used-brightgreen)](https://github.com/sinokadev/aislop-badge)
 ```
 
-### In cases where AI is not used at all
+### When AI is not used at all (0%)
 
 [![Human Made](https://img.shields.io/badge/Human-Made-blue)](https://github.com/sinokadev/aislop-badge)
 
