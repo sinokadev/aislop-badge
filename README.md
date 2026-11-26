@@ -2,6 +2,8 @@
 
 I created this repository to standardize the "AI slop" badge for use in my projects.
 
+> **Note:** Each level includes the scopes of all lower levels.
+
 Please include a link to this repository, as shown below, so that others can easily understand what these badges represent.
 
 [![100% AI Slop](https://img.shields.io/badge/100%25-AI%20Slop-red)](https://github.com/sinokadev/aislop-badge)
